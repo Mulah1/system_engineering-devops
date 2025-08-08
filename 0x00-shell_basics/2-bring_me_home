@@ -1,0 +1,6 @@
+#!/bin/bash
+cd
+chmod +x 2-bring_me_home
+pwd              # check your current directory
+source ./2-bring_me_home
+pwd              # should now be your home directory
